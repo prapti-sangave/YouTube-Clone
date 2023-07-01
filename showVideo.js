@@ -1,5 +1,4 @@
 const BASE_URL_1 = "https://www.googleapis.com/youtube/v3";
-const API_KEY_1 =  "AIzaSyABQQKvla36rUxAggHap02wqFuNkYveGRE";
 
 const video_container = document.getElementById("yt-video");
 const videoId = localStorage.getItem("videoId");
